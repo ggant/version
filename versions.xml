@@ -3,10 +3,10 @@
     <channel>
         <title>SportCard</title>
         <item>
-            <title>Version 2.0.0</title>
-            <sparkle:version>2.0.1</sparkle:version>
+            <title>Version 1.0.2</title>
+            <sparkle:version>1.0.2</sparkle:version>
             <pubDate>Tue, 28 Feb 2023 10:06:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=si.sportcard.sport_card_flutter" sparkle:version="2.0.1" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=si.sportcard.sport_card_flutter" sparkle:version="1.0.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
